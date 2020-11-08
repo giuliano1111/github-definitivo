@@ -8,4 +8,5 @@ body header{
     text-decoration: underline;
     border: 20px solid yellowgreen;
     padding: 20px;
+    display: flex;
 }

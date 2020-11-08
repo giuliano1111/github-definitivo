@@ -9,3 +9,7 @@ body header{
     border: 20px solid yellowgreen;
     padding: 20px;
 }
+.footer{
+    color: black;
+    background-color: pink;
+}
